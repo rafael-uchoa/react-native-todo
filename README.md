@@ -12,4 +12,3 @@ To run the app:
 
 1. `npm install`
 3. `expo start`
-test
